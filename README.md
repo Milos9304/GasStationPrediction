@@ -1,1 +1,8 @@
 # GasStationPrediction
+## Output
+Fold score: 3.3637809236092577
+Fold score: 4.465128144667596
+Fold score: 2.744209516626824
+Fold score: 2.7209323029246986
+Fold score: 2.2092075073618447
+Mean score: 3.100651679038044
